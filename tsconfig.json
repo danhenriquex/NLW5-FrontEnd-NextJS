@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/utils/convertDurationToTimeString.ts"  ],
   "exclude": [
     "node_modules"
   ]
